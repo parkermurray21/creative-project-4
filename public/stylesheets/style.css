@@ -1,0 +1,43 @@
+body {
+ 
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color:white;
+}
+
+a {
+  color: #00B7FF;
+}
+.header{
+  background-color: #3fc5f0;
+  color: white;
+  padding-left:20px;
+  padding-top:20px;
+  height: 10vh;
+}
+.card-text{
+  margin:10px;
+  margin-left:0px; 
+}
+.car-cards{
+  color:black;
+  text-align: center;
+  display: inline-block;
+  margin:10px;
+}
+.inventory{
+  background-color:black;
+  width:100vw;
+  text-align: center;
+}
+
+.wrapper{
+    text-align: center;
+}
+.addForm{
+   padding: 50px;
+   background-color:white;
+   width:50%;
+}
+.inventoryHeader{
+  color:white;
+}
